@@ -1,0 +1,1 @@
+https://github.com/kacchan822/django-bulma-form/archive/master.tar.gz
